@@ -1,4 +1,4 @@
-# 🇮🇳 IndiaConnect: Smartphone Usage Insights
+# IndiaConnect: Smartphone Usage Insights
 
 **IndiaConnect** is a data visualization project that explores smartphone usage trends across India using an interactive and analytical lens. The project leverages a comprehensive dataset to uncover patterns in screen time, data consumption, brand popularity, and user behavior across various demographics.
 
@@ -42,13 +42,14 @@ This project analyzes mobile usage patterns from ~17,690 users across India. The
 ---
 
 ## 📁 Repository Structure
-📦IndiaConnect-Smartphone-Usage
-┣ 📂 Dashboards
-┃ ┣ 📄 powerbi_dashboard.png
-┃ ┗ 📄 tableau_dashboard.png
-┣ 📂 Dataset
-┃ ┗ 📄 phone_usage_india.csv
-┗ 📄 README.md
+
+- `IndiaConnect-Smartphone-Usage/`
+  - `Dashboards/`
+    - `powerbi_dashboard.png` – Power BI dashboard image
+    - `tableau_dashboard.png` – Tableau dashboard image
+  - `Dataset/`
+    - `phone_usage_india.csv` – Source dataset
+  - `README.md` – Project documentation
 
 
 ---
